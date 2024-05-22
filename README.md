@@ -7,7 +7,7 @@ Comprehensive list of React SSR frameworks.
 - [Astro](https://astro.build) - The web framework for content-driven websites.
 - [Gatsby](https://www.gatsbyjs.com) - Framework with performance, scalability and security built in.
 - [Redwood](https://redwoodjs.com) - The App Framework for Startups.
-- [Vike](https://vike.dev) - Flexible, lean, reliable, community-driven, fast Vite-based frontend framework.
+- [Vike](https://vike.dev) - Fast Vite-based frontend framework that is flexible, lean, community-driven, and dependable.
 
 ### Contributing
 
