@@ -3,7 +3,7 @@
 Comprehensive list of React SSR frameworks.
 
 - [Next.js](https://nextjs.org) - The React Framework.
-- [Remix](https://remix.run) - Full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.
+- [Remix](https://remix.run) - Full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience. (Powered by [React Router](https://reactrouter.com/), and [identical](https://remix.run/blog/merging-remix-and-react-router) to it in Remix v3 aka. React Router v7)
 - [Astro](https://astro.build) - The web framework for content-driven websites.
 - [Gatsby](https://www.gatsbyjs.com) - Framework with performance, scalability and security built in.
 - [Redwood](https://redwoodjs.com) - The App Framework for Startups.
