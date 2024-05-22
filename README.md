@@ -3,7 +3,7 @@
 Comprehensive list of React SSR frameworks.
 
 - [Next.js](https://nextjs.org) - "The React Framework."
-- [Remix](https://remix.run) - "Build Better Websites. Create modern, resilient user experiences with web fundamentals." using "Declarative routing for React" (Powered by [React Router](https://reactrouter.com/), and [identical](https://remix.run/blog/merging-remix-and-react-router) to it in Remix v3 aka. React Router v7).
+- [Remix](https://remix.run) - "Build Better Websites. Create modern, resilient user experiences with web fundamentals" using "Declarative routing for React" (Powered by [React Router](https://reactrouter.com/), and [identical](https://remix.run/blog/merging-remix-and-react-router) to it in Remix v3 aka. React Router v7).
 - [Astro](https://astro.build) - "The web framework for content-driven websites."
 - [Gatsby](https://www.gatsbyjs.com) - "Framework with performance, scalability and security built in."
 - [Redwood](https://redwoodjs.com) - "The App Framework for Startups."
