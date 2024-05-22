@@ -11,7 +11,7 @@ Comprehensive list of React SSR frameworks.
 
 ### Contributing
 
-Please review our [contributing guidelines](CONTRIBUTING.md) before contributing.
+Please review our [contributing guidelines](CONTRIBUTING.md).
 
 ## Experimental
 
