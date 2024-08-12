@@ -9,6 +9,7 @@ Comprehensive list of React SSR frameworks.
 - [Redwood](https://redwoodjs.com) - "The App Framework for Startups."
 - [Vike](https://vike.dev) - "Fast Vite-based frontend framework that is flexible, lean, community-driven, and dependable."
 - [vite-ssr-boost](https://github.com/Lomray-Software/vite-ssr-boost) "Super easy framework based on Vite for create awesome SSR or SPA applications on React and React Router."
+- [after.js](https://github.com/jaredpalmer/after.js) - "Next.js-like framework for server-rendered React apps built with React Router"
 
 ### Contributing
 
